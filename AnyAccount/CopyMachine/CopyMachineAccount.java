@@ -4,4 +4,5 @@ interface CopyMachineAccount {
     public boolean copy(int numberOfPages);
     public float payBalance(float amountToPay);
     public void checkBalance();
+    public void authenticate();
 }

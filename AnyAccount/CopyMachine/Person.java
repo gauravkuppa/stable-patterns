@@ -1,4 +1,3 @@
 interface Person {
-    public void setCountry();
-    public void setId();
+    public void createPerson();
 }
